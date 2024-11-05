@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuchiJump2",
+			"Path": "..\\Source\\BuchiJump2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuchiJump2Editor",
+			"Path": "..\\Source\\BuchiJump2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
